@@ -9,4 +9,4 @@ The goal of this project was to create a VBA script that loops through all the s
 # Additonal tasks
 Once we had completed the above we were tasked with adding functionality to the script to return the stock with greatest percentage increase, greatest percent decrease and greatest total volume. After those calculations we had to make adjustments to make the script run on every worksheet in the document. 
 # Navigation
-I have included the code within the file titled "VBA Challenge Code". I also included the Excel output within the "VBA execl output" file. 
+I have included the code within the file titled "VBA Challenge Code".
